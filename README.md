@@ -1,4 +1,4 @@
-## Hey there, just working on making Nixpkgs / NixOS the best.
+## Just making Nixpkgs / NixOS the best package repository and Linux Distrobution.
 
 <p align="center">
   <a href="https://github.com/jonringer/">
