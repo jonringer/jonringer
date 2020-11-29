@@ -1,4 +1,4 @@
-## Hey there, just working on making Nixpkgs / NixOS the best. And sometimes helping upstreams with their packaging.
+## Hey there, just working on making Nixpkgs / NixOS the best.
 
 <p align="center">
   <a href="https://github.com/jonringer/">
